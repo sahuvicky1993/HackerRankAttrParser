@@ -23,7 +23,7 @@ tag1~value
 tag1.tag2~name
 
 sample I/p:
---------------------------------
+
 4 3
 <tag1 value = "HelloWorld">
 <tag2 name = "Name1">
@@ -32,7 +32,6 @@ sample I/p:
 tag1.tag2~name
 tag1~name
 tag1~value
--------------------------------------
 
 sample 0/p:
 Name1
